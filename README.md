@@ -1,2 +1,1 @@
-cd vue-ignition
-npm run dev
+Nested readme
